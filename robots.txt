@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-p4g7j4.delieladm.com.br/sitemap.xml
